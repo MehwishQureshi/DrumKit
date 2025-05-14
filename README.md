@@ -2,7 +2,7 @@
 
 A fun and interactive virtual drum kit built using **HTML**, **CSS**, and **JavaScript**. This project plays different drum sounds when specific keys are pressed or clicked — just like playing a real drum set using your keyboard!
 
-## 🔊 Features
+# 🔊 Features
 
 - Press different keys on the keyboard (like `A`, `S`, `D`, etc.) to trigger drum sounds
 - Click on the on-screen drum buttons for the same effect
